@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Become a successful front end web developer<br>🎲 Fun fact: I also make gams as hobby 😉</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Become a successful front end web developer<br>🎲 Fun fact: I also make games as hobby 😉</p>
 
 ###
 

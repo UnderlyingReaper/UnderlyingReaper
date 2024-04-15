@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is G1itchz and I'm a Game Developer, from Pakistan</p>
+<p align="left">Hopw your doing great! just so you know, I'm a game developer, from Pakistan! :D </p>
 
 ###
 

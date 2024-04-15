@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hopw your doing great! just so you know, I'm a game developer, from Pakistan! :D </p>
+<p align="left">Hope your doing great! just so you know, I'm a game developer, from Pakistan! :D </p>
 
 ###
 

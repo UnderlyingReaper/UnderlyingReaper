@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is G1itchz and I'm a Frontend Web Developer, from Pakistan</p>
+<p align="left">My name is G1itchz and I'm a Game Developer, from Pakistan</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Become a successful front end web developer<br>🎲 Fun fact: I also make games as hobby 😉</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 Making games and working on achieving my goals<br>🎯 Goals: Become a successful entrepreneur <br>🎲 Fun fact: Im learning OpenGL 😉</p>
 
 ###
 
@@ -30,15 +30,14 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+          
+</div>
+            
 ###

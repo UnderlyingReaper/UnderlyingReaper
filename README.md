@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating gsmes since 2023 in unity 💪<br>📚 Making games and working on achieving my goals<br>🎯 Goals: Become a successful entrepreneur <br>🎲 Fun fact: Im learning OpenGL 😉</p>
+<p align="left">✨ Creating games since 2023 in unity 💪<br>📚 Making games and working on achieving my goals<br>🎯 Goals: Become a successful entrepreneur <br>🎲 Fun fact: Im 17 😉</p>
 
 ###
 

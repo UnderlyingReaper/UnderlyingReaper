@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hope your doing great! just so you know, I'm a game developer, from Pakistan! :D </p>
+<p align="left">Hope your doing great! just so you know, I'm a game developer:D </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating games since 2023 in unity 💪<br>📚 Making games and working on achieving my goals<br>🎯 Goals: Become a successful entrepreneur <br>🎲 Fun fact: Im 17 😉</p>
+<p align="left">✨ Creating games since 2023 in unity 💪<br>📚 Making games and working on achieving my goals<br>🎯 Goal: Become a successful entrepreneur <br>🎲 Fun fact: I play games?</p>
 
 ###
 

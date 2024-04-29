@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating games since 2021 in Unity 💪<br>📚 Making games and working on achieving my goals<br>🎯 Goal: Become a successful entrepreneur <br>🎲 Fun fact: I play games?</p>
+<p align="left">✨ Creating games since 2021 in Unity 💪<br>📚 Constantly learning and working on projecys<br>🎯 Life Goal: Become a successful entrepreneur <br>🎲 Fun fact: I like Sim racing and F1!</p>
 
 ###
 
@@ -19,6 +19,8 @@
 ###
 
 <div align="left">
+
+[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/underlyingreaper?igsh=MW85bG1hZ3BuNXZiNg==)
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
@@ -28,7 +30,7 @@
 <h2 align="left">Languages-Tools-Frameworks:</h2>
 
 ###
-
+a
 <div align="center">
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="12" />

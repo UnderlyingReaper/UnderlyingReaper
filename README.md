@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating games since 2021 in Unity 💪<br>📚 Constantly learning and working on projecys<br>🎯 Life Goal: Become a successful entrepreneur <br>🎲 Fun fact: I like Sim racing and F1!</p>
+<p align="left">✨ Creating games since 2021 in Unity 💪<br>📚 Constantly learning and working on projects<br>🎯 Life Goal: Become a successful entrepreneur <br>🎲 Fun fact: I like Sim racing and F1!</p>
 
 ###
 

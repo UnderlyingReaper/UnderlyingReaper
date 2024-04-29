@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating games since 2023 in unity 💪<br>📚 Making games and working on achieving my goals<br>🎯 Goal: Become a successful entrepreneur <br>🎲 Fun fact: I play games?</p>
+<p align="left">✨ Creating games since 2021 in Unity 💪<br>📚 Making games and working on achieving my goals<br>🎯 Goal: Become a successful entrepreneur <br>🎲 Fun fact: I play games?</p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">Languages & Tools:</h2>
+<h2 align="left">Languages-Tools-Frameworks:</h2>
 
 ###
 

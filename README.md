@@ -42,3 +42,40 @@
 </div>
             
 ###
+
+<span style="position:relative; cursor:help;">
+  Hover over me
+  <span style="
+    visibility:hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    white-space: nowrap;
+  ">
+    Tooltip text
+  </span>
+</span>
+
+
+<script>
+  document.querySelectorAll('span[style*="cursor:help"]').forEach(function(el) {
+    el.addEventListener('mouseover', function() {
+      this.querySelector('span[style*="visibility:hidden"]').style.visibility = 'visible';
+      this.querySelector('span[style*="visibility:hidden"]').style.opacity = '1';
+    });
+    el.addEventListener('mouseout', function() {
+      this.querySelector('span[style*="visibility:hidden"]').style.visibility = 'hidden';
+      this.querySelector('span[style*="visibility:hidden"]').style.opacity = '0';
+    });
+  });
+</script>

@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 What's up?</h1>
 
 ###
 
-<p align="left">Hope your doing great! just so you know, I'm a game developer:D </p>
+<p align="left">Welcome to my profile. This is basically where i upload almost all my projects</p>
 
 ###
 

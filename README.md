@@ -11,8 +11,20 @@ I'm a 17-year-old self-taught developer passionate about working on narrative-dr
 - Unity (C#)
 - Game Design & Systems Programming
 - Photon Fusion 2 (Multiplayer)
+- C# ASP.NET Core (REST APIs, backend fundamentals)
 - UI/UX & Prototyping
+- HTML, CSS, JavaScript (Frontend Basics)
 - Git & Version Control
+
+---
+
+## 💡 Soft Skills
+
+- Strong communicator in remote team settings
+- Project leadership experience in indie teams
+- Quick learner and highly self-motivated
+- Comfortable adapting to new tech and feedback
+- Able to manage time and organise tasks independently
 
 ---
 

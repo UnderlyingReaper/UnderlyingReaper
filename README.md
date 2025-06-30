@@ -32,7 +32,7 @@ I'm a 17-year-old self-taught developer passionate about working on narrative-dr
 > - Role: Game Designer, Artist, Programmer, Project Manager
 > - Status: Abandoned (Could not find a Publisher)
 
-### 🏠 *HELL*UCINATE
+### 🚢 *HELL*UCINATE
 > A 2D Horror game where the player cannot remember what happened that led him to this place
 > - Dark atmospheric Pixel Art style
 > - Built with Unity  

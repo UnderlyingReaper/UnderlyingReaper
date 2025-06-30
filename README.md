@@ -1,43 +1,47 @@
-<h1 align="left">👋 What's up?</h1>
+# 👋 Hi, I'm Abduulah
 
-###
+🎮 Unity Game Developer | 🧠 Passionate about C# | ⚙️ 4 years experience
 
-<p align="left">Welcome to my profile. This is basically where i upload almost all my projects</p>
+I'm a 17-year-old self-taught developer passionate about working on narrative-driven and multiplayer games using Unity and C#, currently building a co-op horror game set in a submarine.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🛠 Skills
 
-###
+- Unity (C#)
+- Game Design & Systems Programming
+- Photon Fusion 2 (Multiplayer)
+- UI/UX & Prototyping
+- Git & Version Control
 
-<p align="left">✨ Creating games since 2021 in Unity 💪<br>📚 Constantly learning and working on projects<br>🎯 Life Goal: Become a successful entrepreneur <br>🎲 Fun fact: I like Sim racing and F1!</p>
+---
 
-###
+## 🎮 Projects
 
-<h2 align="left">Connect with me:</h2>
+### 🔧 L.E.A.K. *(WIP)*
+> Low-poly co-op horror survival game set in a malfunctioning submarine  
+> - 4-player co-op  
+> - Built with Unity  
+> - Role: Game Designer, Programmer, Project Lead  
+> - Status: Vertical Slice in progress
 
-###
+### 🏠 HOUSE OF HAUNTING MEMORIES
+> A 2D Psychological horror game about a guy experiencing nightmares due to his past that he tried to bury and leave behind
+> - Cartoonish visuals with a scary, sinister story
+> - Built with Unity  
+> - Role: Game Designer, Artist, Programmer, Project Manager
+> - Status: Abandoned (Could not find a Publisher)
 
-<div align="left">
+### 🏠 *HELL*UCINATE
+> A 2D Horror game where the player cannot remember what happened that led him to this place
+> - Dark atmospheric Pixel Art style
+> - Built with Unity  
+> - Role: Programmer, Project Lead, Artist, Sound Designer 
+> - Status: Cancelled
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width = "52" height = "40" alt = "instagram logo" />](https://www.instagram.com/underlyingreaper?igsh=MW85bG1hZ3BuNXZiNg==)
-</div>
+---
 
-###
+## 📫 Contact
 
-<h2 align="left">Languages-Tools-Frameworks:</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40"/>
-          
-</div>
-            
-###
+- **Email**: itsabdullahsaeed2007@gmail.com 
+- **Discord**: UnderlyingReaper

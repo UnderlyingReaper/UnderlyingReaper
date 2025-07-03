@@ -10,10 +10,10 @@ I'm a 17-year-old self-taught developer passionate about working on narrative-dr
 
 - Unity (C#)
 - Game Design & Systems Programming
+- C# ASP.NET Core (REST APIs, Minimal APIs)
 - Photon Fusion 2 (Multiplayer)
-- C# ASP.NET Core (REST APIs, backend fundamentals)
 - UI/UX & Prototyping
-- HTML, CSS, JavaScript (Frontend Basics)
+- HTML, CSS, JavaScript
 - Git & Version Control
 
 ---

@@ -34,14 +34,21 @@ I'm a 17-year-old self-taught developer passionate about working on narrative-dr
 > Low-poly co-op horror survival game set in a malfunctioning submarine  
 > - 4-player co-op  
 > - Built with Unity  
-> - Role: Game Designer, Programmer, Project Lead  
+> - Role: Game Designer, Programmer, Project Manager
 > - Status: Vertical Slice in progress
+
+### ⚡ BASE STATION OVERLOAD!
+> A top-down 3D game where you have to build Factories, Relays and Power Storage Units to be able to keep relays operational, provide internet connectivity to houses and keep the company from going bankrupt (Built for a game jam in 48hrs)
+> - Low-poly visuals and aesthetic
+> - Built with Unity
+> - Role: Game Designer, Programmer, Artist, Sound Designer
+> - Status: Released
 
 ### 🏠 HOUSE OF HAUNTING MEMORIES
 > A 2D Psychological horror game about a guy experiencing nightmares due to his past that he tried to bury and leave behind
 > - Cartoonish visuals with a scary, sinister story
 > - Built with Unity  
-> - Role: Game Designer, Artist, Programmer, Project Manager
+> - Role: Game Designer, Programmer, Artist, Project Manager
 > - Link: [Link](https://arsh-studio.itch.io/house-of-haunting-memories)
 > - Status: Abandoned (Could not find a Publisher)
 
@@ -49,7 +56,7 @@ I'm a 17-year-old self-taught developer passionate about working on narrative-dr
 > A 2D Horror game where the player cannot remember what happened that led him to this place
 > - Dark atmospheric Pixel Art style
 > - Built with Unity  
-> - Role: Programmer, Project Lead, Artist, Sound Designer
+> - Role: Programmer, Game Designer, Artist, Sound Designer
 > - Status: Cancelled
 
 ---

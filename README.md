@@ -30,13 +30,6 @@ I'm a 17-year-old self-taught developer passionate about working on narrative-dr
 
 ## 🎮 Projects
 
-### 🔧 L.E.A.K. *(WIP)*
-> Low-poly co-op horror survival game set in a malfunctioning submarine  
-> - 4-player co-op  
-> - Built with Unity  
-> - Role: Game Designer, Programmer, Project Manager
-> - Status: Vertical Slice in progress
-
 ### ⚡ BASE STATION OVERLOAD!
 > A top-down 3D game where you have to build Factories, Relays and Power Storage Units to be able to keep relays operational, provide internet connectivity to houses and keep the company from going bankrupt (Built for a game jam in 48hrs)
 > - Low-poly visuals and aesthetic

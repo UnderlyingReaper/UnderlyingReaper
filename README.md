@@ -2,7 +2,7 @@
 
 🎮 Unity Game Developer | 🧠 Passionate about C# | ⚙️ 4 years experience
 
-I'm a 17-year-old self-taught developer passionate about working on narrative-driven and multiplayer games using Unity and C#, currently building a co-op horror game set in a submarine.
+I'm a 17-year-old self-taught developer passionate about working on narrative-driven and multiplayer games using Unity and Backend web development using C#, currently building an airplane semi-sim.
 
 ---
 

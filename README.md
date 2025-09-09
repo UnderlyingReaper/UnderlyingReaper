@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Saeed
 
-🎮 Unity Game Developer | 🧠 Passionate about C# | ⚙️ 4 years experience
+🎮 Unity Game Developer | ⚙️ Backend Engineer | ⏳ 4 years experience using C#
 
 I'm a 17-year-old self-taught developer passionate about working on narrative-driven and multiplayer games using Unity and Backend web development using C#, currently building an airplane semi-sim.
 

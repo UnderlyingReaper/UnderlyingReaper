@@ -2,7 +2,7 @@
 
 🎮 Unity Game Developer | ⚙️ Backend Engineer | ⏳ 4 years experience using C#
 
-I'm an 18-year-old self-taught developer passionate about working on narrative-driven and multiplayer games using Unity, and Backend web development using C#. I'm currently building an airplane simulation.
+I'm an 18-year-old self-taught developer passionate about working on narrative-driven and multiplayer games using Unity, as well as backend development.
 
 ---
 

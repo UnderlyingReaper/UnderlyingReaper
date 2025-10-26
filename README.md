@@ -2,7 +2,7 @@
 
 🎮 Unity Game Developer | ⚙️ Backend Engineer | ⏳ 4 years experience using C#
 
-I'm a 17-year-old self-taught developer passionate about working on narrative-driven and multiplayer games using Unity and Backend web development using C#, currently building an airplane semi-sim.
+I'm an 18-year-old self-taught developer passionate about working on narrative-driven and multiplayer games using Unity, and Backend web development using C#. I'm currently building an airplane simulation.
 
 ---
 
@@ -11,10 +11,9 @@ I'm a 17-year-old self-taught developer passionate about working on narrative-dr
 - Unity (C#)
 - Game Design & Systems Programming
 - C# ASP.NET Core (REST APIs, Minimal APIs)
-- Photon Fusion 2 (Multiplayer)
+- PHP & Laravel
 - UI/UX & Prototyping
 - HTML, CSS, JavaScript
-- Git & Version Control
 
 ---
 
@@ -35,7 +34,6 @@ I'm a 17-year-old self-taught developer passionate about working on narrative-dr
 > - Low-poly visuals and aesthetic
 > - Built with Unity
 > - Role: Game Designer, Programmer, Artist, Sound Designer
-> - Status: Released
 
 ### 🏠 HOUSE OF HAUNTING MEMORIES
 > A 2D Psychological horror game about a guy experiencing nightmares due to his past that he tried to bury and leave behind
@@ -43,14 +41,6 @@ I'm a 17-year-old self-taught developer passionate about working on narrative-dr
 > - Built with Unity  
 > - Role: Game Designer, Programmer, Artist, Project Manager
 > - Link: [Link](https://arsh-studio.itch.io/house-of-haunting-memories)
-> - Status: Abandoned (Could not find a Publisher)
-
-### 🚢 *HELL*UCINATE
-> A 2D Horror game where the player cannot remember what happened that led him to this place
-> - Dark atmospheric Pixel Art style
-> - Built with Unity  
-> - Role: Programmer, Game Designer, Artist, Sound Designer
-> - Status: Cancelled
 
 ---
 

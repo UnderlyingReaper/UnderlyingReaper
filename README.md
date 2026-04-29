@@ -2,7 +2,7 @@
 
 🎮 Unity Game Developer | ⚙️ Backend Engineer | ⏳ 4 years experience using C#
 
-I'm an 18-year-old self-taught developer passionate about working on narrative-driven and multiplayer games using Unity, as well as backend development.
+Unity Game Developer with 4 years of C# experience building narrative-driven games and backend systems. I help indie teams ship complete game experiences from concept to launch, handling everything from game design to sound in fast-paced environments like 48-hour game jams.
 
 ---
 
